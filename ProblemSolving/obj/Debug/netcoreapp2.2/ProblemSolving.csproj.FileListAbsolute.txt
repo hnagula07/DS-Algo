@@ -1,0 +1,11 @@
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\obj\Debug\netcoreapp2.2\ProblemSolving.csprojAssemblyReference.cache
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\obj\Debug\netcoreapp2.2\ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\obj\Debug\netcoreapp2.2\ProblemSolving.AssemblyInfoInputs.cache
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\obj\Debug\netcoreapp2.2\ProblemSolving.AssemblyInfo.cs
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\bin\Debug\netcoreapp2.2\ProblemSolving.deps.json
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\bin\Debug\netcoreapp2.2\ProblemSolving.runtimeconfig.json
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\bin\Debug\netcoreapp2.2\ProblemSolving.runtimeconfig.dev.json
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\bin\Debug\netcoreapp2.2\ProblemSolving.dll
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\bin\Debug\netcoreapp2.2\ProblemSolving.pdb
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\obj\Debug\netcoreapp2.2\ProblemSolving.dll
+C:\Users\hnagula\Go\src\github.com\hnagula07\DS-Algo\ProblemSolving\obj\Debug\netcoreapp2.2\ProblemSolving.pdb
