@@ -91,7 +91,6 @@ namespace LinkedList
                  return current.data;
             }
             return val;
-            
         }
     }
 }
