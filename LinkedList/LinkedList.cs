@@ -30,18 +30,19 @@ namespace LinkedList
             }else{
                 if(lastNode != null){
                     System.Console.WriteLine("inside lastNode");
-                 lastNode.Next = node;
-                Length++;
+                    lastNode.Next = node;
+                    Length++;
                 }else{
-                Node current = Head;
-                while(current.Next != null){
-                    current = current.Next;
+                    Node current = Head;
+                    while(current.Next != null){
+                        current = current.Next;
+                    }
+                    current.Next = node;
+                    Length++;
+                    lastNode = current.Next;
                 }
-                current.Next = node;
-                Length++;
-                lastNode = current.Next;
-            } }
-        } 
+         }
+    } 
 
        public static void Main(string[] args)
         {

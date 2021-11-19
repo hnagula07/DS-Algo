@@ -65,6 +65,53 @@ namespace ProblemSolving
             }
         }
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         public static void printArray(int[] nums){
             int j=0;
             while(j< nums.Length)
